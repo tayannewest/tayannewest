@@ -34,6 +34,7 @@ I'm a software developer, visual designer, and general tech enthusiast.
 ### Are you down to connect? 📫
 
 You bet!
+
 <a href="mailto: tayanne.west@gmail.com">
 <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></img>
 </a>
