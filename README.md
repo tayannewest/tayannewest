@@ -12,7 +12,7 @@ I'm a software developer, visual designer, and general tech enthusiast.
 
 ✨ In love with JavaScript and React, but always interested in learning something new. Right now I'm focusing on leveling up with Python and introducing myself to C#.
 
-### Skills I'm tending developing 🌱
+### Skills I'm developing 🌱
 
 <a href="#"><img src='https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0'></img></a>
 <a href="#"><img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'></img></a>
